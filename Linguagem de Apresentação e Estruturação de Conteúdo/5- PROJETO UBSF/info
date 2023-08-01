@@ -1,0 +1,13 @@
+Projeto UBSF
+
+Cada município conta com um conjunto de Unidades Básicas de Saúde Familiar (UBSF) com pontos de atendimento médico/odontológico para a população nos bairros da cidade. Estas unidades oferecem serviços de prevenção de doenças, vacinação, consultas e encaminhamentos dos casos mais graves.
+
+Nesta atividade você deve elaborar um website com informações sobre as UBSFs do município de Corumbá (ou Ladário). Neste website, as informações sobre os serviços prestados podem ser mostrados em uma página inicial (index.html). Cada uma das UBSFs deve ter uma página (ubsf.html) contendo informações como endereço, telefones, email e imagens.
+DICA:
+Você não precisa implementar todas as páginas das UBSFs. Escolha apenas uma!!
+
+Veja abaixo uma sugestão de Layout para esta tarefa:
+Layout sugerido para o website da tarefa proposta
+Layouts sugeridos para o website UBSF
+
+O layout da página pode ser pensado para usuários desktop (tela grande) e não precisa ser responsivo. A estilização pode ser feita com formatação interna (elemento STYLE) ou com formatação externa.
